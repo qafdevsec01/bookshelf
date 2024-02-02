@@ -22,7 +22,7 @@
     "jsonwebtoken": "8.5.1",
     "pg": "8.5.0",
     "reflect-metadata": "0.1.13",
-    "subscriptions-transport-ws": "0.9.18",
+    "subscriptions-transport-ws": "0.11.0",
     "typedi": "0.8.0",
     "typeorm": "0.2.29",
     "typeorm-typedi-extensions": "0.2.3",
