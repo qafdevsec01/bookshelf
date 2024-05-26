@@ -24,7 +24,7 @@
     "reflect-metadata": "0.1.13",
     "subscriptions-transport-ws": "0.9.18",
     "typedi": "0.8.0",
-    "typeorm": "0.2.29",
+    "typeorm": "0.3.18",
     "typeorm-typedi-extensions": "0.2.3",
     "ws": "7.4.0"
   },
