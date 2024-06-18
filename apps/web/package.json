@@ -15,7 +15,7 @@
     "react-icons": "3.11.0",
     "react-router": "6.0.0-beta.0",
     "react-router-dom": "6.0.0-beta.0",
-    "subscriptions-transport-ws": "0.9.18",
+    "subscriptions-transport-ws": "0.11.0",
     "yup": "0.29.3"
   },
   "devDependencies": {
